@@ -2,37 +2,37 @@
     The following built-in and plugins subcommands are available.
     
 - __activate__          - Activate a conda environment.
-- _build_             Build conda packages from a conda recipe.
-- clean             Remove unused packages and caches.
-- compare           Compare packages between conda environments.
-- config            Modify configuration values in .condarc.
-- content-trust     Signing and verification tools for Conda
-- convert           Convert pure Python packages to other platforms (a.k.a., subdirs).
-- create            Create a new conda environment from a list of specified packages.
-- deactivate        Deactivate the current active conda environment.
-- debug             Debug the build or test phases of conda recipes.
-- develop           Install a Python package in 'development mode'. Similar to `pip install --editable`.
-- doctor            Display a health report for your environment.
-- index             Update package index metadata files.
-- info              Display information about current conda install.
-- init              Initialize conda for shell interaction.
-- inspect           Tools for inspecting conda packages.
-- install           Install a list of packages into a specified conda environment.
-- list              List installed packages in a conda environment.
-- metapackage       Specialty tool for generating conda metapackage.
-- notices           Retrieve latest channel notifications.
-- pack              See `conda pack --help`.
-- package           Create low-level conda packages. (EXPERIMENTAL)
-- remove (uninstall)
-                  Remove a list of packages from a specified conda environment.
-- rename            Rename an existing environment.
-- render            Expand a conda recipe into a platform-specific recipe.
-- repo              See `conda repo --help`.
-- repoquery         Advanced search for repodata.
-- run               Run an executable in a conda environment.
-- search            Search for packages and display associated information using the MatchSpec format.
-- server            See `conda server --help`.
-- skeleton          Generate boilerplate conda recipes.
-- token             See `conda token --help`.
-    update (upgrade)  Update conda packages to the latest compatible version.
-    verify            See `conda verify --help`.
+- __build__             - Build conda packages from a conda recipe.
+- __clean__             - Remove unused packages and caches.
+- __compare__           - Compare packages between conda environments.
+- __config__            - Modify configuration values in .condarc.
+- __content-trust__     - Signing and verification tools for Conda
+- __convert__           - Convert pure Python packages to other platforms (a.k.a., subdirs).
+- __create__            - Create a new conda environment from a list of specified packages.
+- __deactivate__        - Deactivate the current active conda environment.
+- __debug__             - Debug the build or test phases of conda recipes.
+- __develop__           - Install a Python package in 'development mode'. Similar to `pip install --editable`.
+- __doctor__            - Display a health report for your environment.
+- __index__             - Update package index metadata files.
+- __info__              - Display information about current conda install.
+- __init__              - Initialize conda for shell interaction.
+- __inspect__           - Tools for inspecting conda packages.
+- __install__           - Install a list of packages into a specified conda environment.
+- __list__              - List installed packages in a conda environment.
+- __metapackage__       - Specialty tool for generating conda metapackage.
+- __notices__           - Retrieve latest channel notifications.
+- __pack__              - See `conda pack --help`.
+- __package__           - Create low-level conda packages. (EXPERIMENTAL)
+- __remove (uninstall)__
+                  - Remove a list of packages from a specified conda environment.
+- __rename__            - Rename an existing environment.
+- __render__            - Expand a conda recipe into a platform-specific recipe.
+- __repo__              - See `conda repo --help`.
+- __repoquery__         - Advanced search for repodata.
+- __run__               - Run an executable in a conda environment.
+- __search__            - Search for packages and display associated information using the MatchSpec format.
+- __server__            - See `conda server --help`.
+- __skeleton__          - Generate boilerplate conda recipes.
+- __token__             - See `conda token --help`.
+- __update (upgrade)__  - Update conda packages to the latest compatible version.
+- __verify__            - See `conda verify --help`.
