@@ -1,7 +1,7 @@
 ## commands:
     The following built-in and plugins subcommands are available.
     
-- *_activate_*          - Activate a conda environment.
+- __activate__          - Activate a conda environment.
 - _build_             Build conda packages from a conda recipe.
 - clean             Remove unused packages and caches.
 - compare           Compare packages between conda environments.
