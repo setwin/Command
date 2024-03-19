@@ -1,1 +1,2 @@
-# Command
+## Anaconda Commands list
+- conda --help
